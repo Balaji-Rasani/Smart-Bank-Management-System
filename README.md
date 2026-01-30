@@ -2,7 +2,7 @@
 Smart Bank Management System
 <img width="1557" height="873" alt="image" src="https://github.com/user-attachments/assets/876e1f60-7073-4585-8ccd-1bba90a7ca25" />
 
-🏦 Smart Bank Management System 😄
+#🏦 Smart Bank Management System 😄
 🏢 Bank Management - Account & Transaction Tracker 🛠️
 Welcome to the Smart Bank Management System, a web-based application developed using Java Servlets, JSP, MySQL, and Apache Tomcat. This project aims to digitize banking operations, enabling users to manage accounts, perform transactions, and monitor banking activities efficiently.
 
